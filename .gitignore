@@ -1,0 +1,17 @@
+# Mindbox
+Mindbox/
+
+# local_settings
+djangoProject/components/local_settings.py
+
+# migrations
+djangoProject/migrations
+
+# ide
+.idea/
+
+# pychache
+*.pyc
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
